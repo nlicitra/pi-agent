@@ -14,8 +14,6 @@
 !themes/**
 !extensions/
 !extensions/**
-!memories/
-!memories/**
 
 
 # Exclude dependencies
